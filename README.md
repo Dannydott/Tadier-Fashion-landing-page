@@ -1,2 +1,2 @@
 # Tadier-Fashion-landing-page
-Landing-page for a fashion store
+Creating a landing page for a fashion brand I've created. Gives me a pleasing way to test out flexbox more.
